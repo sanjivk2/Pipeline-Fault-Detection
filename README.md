@@ -27,3 +27,11 @@ Project Structure
 ├── data.m               % Data loading and preprocessing
 ├── mlcode.m             % Main classification implementation
 ├── abc_fitness.m        % Swarm optimization (fitness function)
+
+Code Description
+mlcode.m
+Main script for training and testing the fault detection model
+data.m
+Handles dataset loading and preprocessing
+abc_fitness.m
+Implements the fitness function for the Swarm Intelligence algorithm (Artificial Bee Colony or similar)
