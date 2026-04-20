@@ -24,9 +24,13 @@ Performance metrics for validation
 
 Project Structure
 ├── sanjeevdata.mat      % Main dataset (sensor data)
+
 ├── data.m               % Data loading and preprocessing
+
 ├── mlcode.m             % Main classification implementation
+
 ├── abc_fitness.m        % Swarm optimization (fitness function)
+
 
 Code Description
 mlcode.m
