@@ -23,6 +23,7 @@ Performance metrics for validation
 
 
 Project Structure
+
 ├── sanjeevdata.mat      % Main dataset (sensor data)
 
 ├── data.m               % Data loading and preprocessing
